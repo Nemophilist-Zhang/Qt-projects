@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>player.png</file>
+        <file>monster.png</file>
+        <file>tree.png</file>
+        <file>rock.png</file>
+        <file>pit.png</file>
+        <file>ice.png</file>
+        <file>speed_boost.png</file>
+        <file>health.png</file>
+        <file>invincibility.png</file>
+        <file>bomb.png</file>
+        <file>background_snow.png</file>
+        <file>background_forest.png</file>
+        <file>background_night.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>move.wav</file>
+        <file>collision.wav</file>
+        <file>powerup.wav</file>
+        <file>gameover.wav</file>
+        <file>bgm_snow.mp3</file>
+        <file>bgm_forest.mp3</file>
+        <file>bgm_night.mp3</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>arial.ttf</file>
+    </qresource>
+</RCC>
